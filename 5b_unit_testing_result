@@ -1,0 +1,8 @@
+theia@theiadocker-sevlanosbor:/home/project/final_project$ python3 test_emotion_detection.py
+For the statement 'I am glad this happened' the system response is 'joy'
+For the statement 'I am really mad about this' the system response is 'anger'
+For the statement 'I feel disgusted just hearing about this' the system response is 'disgust'
+For the statement 'I am so sad about this' the system response is 'sadness'
+For the statement 'I am really afraid that this will happen' the system response is 'fear'
+All tests passed!
+theia@theiadocker-sevlanosbor:/home/project/final_project$ 
